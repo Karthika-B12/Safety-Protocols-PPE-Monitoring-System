@@ -76,7 +76,7 @@ The dataset used for this project is hosted on Roboflow. You can access and down
 
 - **Visual Results:**
   - **Confusion Matrix:**  
-    ![Confusion Matrix](path_to_confusion_matrix_image)
+    ![Confusion Matrix]![Screenshot 2024-08-22 072454](https://github.com/user-attachments/assets/0a28714f-fc8d-45c2-9481-41617cad4404)
   - **F1 Curve:**  
     ![F1 Curve](path_to_f1_curve_image)
   - **Precision-Recall (PR) Curve:**  
