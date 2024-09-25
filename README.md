@@ -78,19 +78,19 @@ The dataset used for this project is hosted on Roboflow. You can access and down
   - **Confusion Matrix:**  
     ![Confusion Matrix]![Screenshot 2024-09-03 225911](https://github.com/user-attachments/assets/d3c76ca4-eb67-43db-8382-55951277ef67)
   - **F1 Curve:**  
-    ![F1 Curve]![Screenshot 2023-04-18 150626](https://github.com/user-attachments/assets/826260b5-479d-4d02-93d8-946976314fe6)
+    ![F1 Curve]!![Screenshot 2024-09-25 221616](https://github.com/user-attachments/assets/f9432d76-05e8-410b-89a2-aec7b501c66d)
   - **Precision-Recall (PR) Curve:**  
-    ![PR Curve](path_to_pr_curve_image)
+    ![PR Curve]![Screenshot 2024-09-25 221830](https://github.com/user-attachments/assets/eac38a5a-83be-418b-a53e-4dcd972eb78a)
   - **Precision Curve (P):**  
-    ![Precision Curve](path_to_precision_curve_image)
+    ![Precision Curve]![Screenshot 2024-09-25 223018](https://github.com/user-attachments/assets/7a06d5e2-0c67-4046-920e-effe89af85ed)
   - **Recall Curve (R):**  
-    ![Recall Curve](path_to_recall_curve_image)
+    ![Recall Curve]![Screenshot 2024-09-25 223117](https://github.com/user-attachments/assets/6ce2cdc7-e473-47c2-b639-583249286237)
   - **Loss Curves:**  
-    ![Loss Curves](path_to_loss_curves_image)
+    ![Loss Curves]![Screenshot 2024-09-25 223215](https://github.com/user-attachments/assets/c926456e-ac75-42d3-afc5-008265c153c0)
 
 - **Sample Image Prediction:**
-  ![Sample Prediction 1](path_to_sample_prediction_image_1)
-  ![Sample Prediction 2](path_to_sample_prediction_image_2)
+  ![Sample Prediction 1]![Screenshot 2024-09-25 223741](https://github.com/user-attachments/assets/7ca1f553-4957-4008-8dc3-8b0ff2e165db)
+  ![Sample Prediction 2]![Screenshot 2024-09-25 223836](https://github.com/user-attachments/assets/85fc0392-9f6f-42c9-8e6d-be4eed139464)
 
 ## Recommendation
 If running this on Google Colab, it’s recommended to change the runtime to GPU for faster processing.
