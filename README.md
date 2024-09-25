@@ -78,7 +78,7 @@ The dataset used for this project is hosted on Roboflow. You can access and down
   - **Confusion Matrix:**  
     ![Confusion Matrix]![Screenshot 2024-09-03 225911](https://github.com/user-attachments/assets/d3c76ca4-eb67-43db-8382-55951277ef67)
   - **F1 Curve:**  
-    ![F1 Curve](path_to_f1_curve_image)
+    ![F1 Curve]![Screenshot 2023-04-18 150626](https://github.com/user-attachments/assets/826260b5-479d-4d02-93d8-946976314fe6)
   - **Precision-Recall (PR) Curve:**  
     ![PR Curve](path_to_pr_curve_image)
   - **Precision Curve (P):**  
