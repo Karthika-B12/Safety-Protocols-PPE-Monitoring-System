@@ -76,7 +76,7 @@ The dataset used for this project is hosted on Roboflow. You can access and down
 
 - **Visual Results:**
   - **Confusion Matrix:**  
-    ![Confusion Matrix]![Screenshot 2024-09-03 225911](https://github.com/user-attachments/assets/d3c76ca4-eb67-43db-8382-55951277ef67)
+    ![This matrix shows the true positive, false positive, true negative, and false negative rates.]![Screenshot 2024-09-03 225911](https://github.com/user-attachments/assets/d3c76ca4-eb67-43db-8382-55951277ef67)
   - **F1 Curve:**  
     ![F1 Curve]!![Screenshot 2024-09-25 221616](https://github.com/user-attachments/assets/f9432d76-05e8-410b-89a2-aec7b501c66d)
   - **Precision-Recall (PR) Curve:**  
