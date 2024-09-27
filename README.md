@@ -75,22 +75,38 @@ The dataset used for this project is hosted on Roboflow. You can access and down
   - mAP (0.5:0.95): 0.651
 
 - **Visual Results:**
-  - **Confusion Matrix:**  
-    ![This matrix shows the true positive, false positive, true negative, and false negative rates.]![Screenshot 2024-09-03 225911](https://github.com/user-attachments/assets/d3c76ca4-eb67-43db-8382-55951277ef67)
-  - **F1 Curve:**  
-    ![F1 Curve]!![Screenshot 2024-09-25 221616](https://github.com/user-attachments/assets/f9432d76-05e8-410b-89a2-aec7b501c66d)
-  - **Precision-Recall (PR) Curve:**  
-    ![PR Curve]![Screenshot 2024-09-25 221830](https://github.com/user-attachments/assets/eac38a5a-83be-418b-a53e-4dcd972eb78a)
-  - **Precision Curve (P):**  
-    ![Precision Curve]![Screenshot 2024-09-25 223018](https://github.com/user-attachments/assets/7a06d5e2-0c67-4046-920e-effe89af85ed)
-  - **Recall Curve (R):**  
-    ![Recall Curve]![Screenshot 2024-09-25 223117](https://github.com/user-attachments/assets/6ce2cdc7-e473-47c2-b639-583249286237)
-  - **Loss Curves:**  
-    ![Loss Curves]![Screenshot 2024-09-25 223215](https://github.com/user-attachments/assets/c926456e-ac75-42d3-afc5-008265c153c0)
 
-- **Sample Image Prediction:**
-  ![Sample Prediction 1]![Screenshot 2024-09-25 223741](https://github.com/user-attachments/assets/7ca1f553-4957-4008-8dc3-8b0ff2e165db)
-  ![Sample Prediction 2]![Screenshot 2024-09-25 223836](https://github.com/user-attachments/assets/85fc0392-9f6f-42c9-8e6d-be4eed139464)
+  **Confusion Matrix:**  
+  ![This matrix shows the true positive, false positive, true negative, and false negative rates.](https://github.com/user-attachments/assets/d3c76ca4-eb67-43db-8382-55951277ef67)  
+  *Confusion matrix showing the distribution of correct and incorrect predictions.*
+
+  **F1 Curve:**  
+  ![F1 Curve](https://github.com/user-attachments/assets/f9432d76-05e8-410b-89a2-aec7b501c66d)  
+  *The F1 curve representing the balance between precision and recall.*
+
+  **Precision-Recall (PR) Curve:**  
+  ![PR Curve](https://github.com/user-attachments/assets/eac38a5a-83be-418b-a53e-4dcd972eb78a)  
+  *Precision-Recall curve showing model performance at various thresholds.*
+
+  **Precision Curve (P):**  
+  ![Precision Curve](https://github.com/user-attachments/assets/7a06d5e2-0c67-4046-920e-effe89af85ed)  
+  *Precision curve depicting how precision changes over time.*
+
+  **Recall Curve (R):**  
+  ![Recall Curve](https://github.com/user-attachments/assets/6ce2cdc7-e473-47c2-b639-583249286237)  
+  *Recall curve showing how recall evolves during training.*
+
+  **Loss Curves:**  
+  ![Loss Curves](https://github.com/user-attachments/assets/c926456e-ac75-42d3-afc5-008265c153c0)  
+  *Loss curves demonstrating the reduction in error over training epochs.*
+
+  **Sample Image Prediction 1:**  
+  ![Sample Prediction 1](https://github.com/user-attachments/assets/7ca1f553-4957-4008-8dc3-8b0ff2e165db)  
+  *Sample prediction with correctly detected PPE on a worker.*
+
+  **Sample Image Prediction 2:**  
+  ![Sample Prediction 2](https://github.com/user-attachments/assets/85fc0392-9f6f-42c9-8e6d-be4eed139464)  
+  *Another prediction showing accurate PPE detection on a construction site.*
 
 ## Recommendation
 If running this on Google Colab, it’s recommended to change the runtime to GPU for faster processing.
